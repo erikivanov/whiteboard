@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "title": "Raum für Ideen",
+  "nodes": [
+    {
+      "id": "compare-note",
+      "kind": "note",
+      "x": 330,
+      "y": 244,
+      "w": 100,
+      "h": 100,
+      "text": "Vergleich A",
+      "fill": "#fff79e"
+    },
+    {
+      "id": "compare-rect",
+      "kind": "rect",
+      "x": 650,
+      "y": 240,
+      "w": 200,
+      "h": 120,
+      "text": "Form B",
+      "fill": "transparent"
+    },
+    {
+      "id": "compare-text",
+      "kind": "text",
+      "x": 360,
+      "y": 465,
+      "w": 70,
+      "h": 60,
+      "text": "Freier Text\nZweite Zeile",
+      "fill": "transparent"
+    },
+    {
+      "id": "old-note",
+      "kind": "note",
+      "x": 530,
+      "y": 586,
+      "w": 100,
+      "h": 100,
+      "text": "Notiz A geändert",
+      "fill": "#fff79e"
+    },
+    {
+      "id": "old-rect",
+      "kind": "rect",
+      "x": 910,
+      "y": 602,
+      "w": 277,
+      "h": 173,
+      "text": "Form B",
+      "fill": "transparent"
+    },
+    {
+      "id": "old-text",
+      "kind": "text",
+      "x": 479,
+      "y": 738,
+      "w": 70,
+      "h": 45,
+      "text": "Text geändert",
+      "fill": "transparent"
+    }
+  ],
+  "edges": [
+    {
+      "id": "compare-edge",
+      "from": {
+        "nodeId": "compare-note",
+        "side": "right",
+        "point": { "x": 430, "y": 294 }
+      },
+      "to": {
+        "nodeId": "compare-rect",
+        "side": "left",
+        "point": { "x": 650, "y": 300 }
+      }
+    },
+    {
+      "id": "old-edge",
+      "from": {
+        "nodeId": "old-note",
+        "side": "right",
+        "point": { "x": 630, "y": 636 }
+      },
+      "to": {
+        "nodeId": "old-rect",
+        "side": "left",
+        "point": { "x": 910, "y": 688 }
+      }
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-29",
+  "requestedUrl": "http://localhost:3000",
+  "requestedUrlStatus": 404,
+  "testedUrl": "http://localhost:3001",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "runner": "Playwright MCP, sichtbares Chromium, isolierte Testkontexte",
+  "zooms": [
+    {
+      "percent": 50,
+      "results": [
+        {
+          "zoom": 0.5,
+          "scenario": "Punkt top / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Punkt right / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Punkt bottom / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Punkt left / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Vorhandenes Ziel / Hervorhebung / Verschieben",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Leere Fläche / Escape / Erstellmenü / Undo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Größenvergleich width",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Größenvergleich height",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Größenvergleich both",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 0.5,
+          "scenario": "Proportional / Abbrechen / Schwelle / Positionsausrichtung",
+          "status": "bestanden"
+        },
+        {
+          "scenario": "Persistenz / temporäre Daten / Textbearbeitung",
+          "status": "bestanden"
+        }
+      ],
+      "errors": [],
+      "network": []
+    },
+    {
+      "percent": 100,
+      "results": [
+        {
+          "zoom": 1,
+          "scenario": "Punkt top / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Punkt right / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Punkt bottom / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Punkt left / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Vorhandenes Ziel / Hervorhebung / Verschieben",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Leere Fläche / Escape / Erstellmenü / Undo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Größenvergleich width",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Größenvergleich height",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Größenvergleich both",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 1,
+          "scenario": "Proportional / Abbrechen / Schwelle / Positionsausrichtung",
+          "status": "bestanden"
+        },
+        {
+          "scenario": "Persistenz / temporäre Daten / Textbearbeitung",
+          "status": "bestanden"
+        }
+      ],
+      "errors": [],
+      "network": []
+    },
+    {
+      "percent": 200,
+      "results": [
+        {
+          "zoom": 2,
+          "scenario": "Punkt top / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Punkt right / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Punkt bottom / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Punkt left / Vorschau / Erstellen / Undo-Redo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Vorhandenes Ziel / Hervorhebung / Verschieben",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Leere Fläche / Escape / Erstellmenü / Undo",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Größenvergleich width",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Größenvergleich height",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Größenvergleich both",
+          "status": "bestanden"
+        },
+        {
+          "zoom": 2,
+          "scenario": "Proportional / Abbrechen / Schwelle / Positionsausrichtung",
+          "status": "bestanden"
+        },
+        {
+          "scenario": "Persistenz / temporäre Daten / Textbearbeitung",
+          "status": "bestanden"
+        }
+      ],
+      "errors": [],
+      "network": []
+    }
+  ],
+  "regression": [
+    {
+      "id": "A01",
+      "status": "bestanden"
+    },
+    {
+      "id": "A02",
+      "status": "bestanden"
+    },
+    {
+      "id": "A03",
+      "status": "bestanden"
+    },
+    {
+      "id": "A04",
+      "status": "bestanden"
+    },
+    {
+      "id": "A05",
+      "status": "bestanden"
+    },
+    {
+      "id": "A06",
+      "status": "bestanden"
+    },
+    {
+      "id": "A07",
+      "status": "bestanden"
+    },
+    {
+      "id": "A08",
+      "status": "bestanden"
+    },
+    {
+      "id": "A09",
+      "status": "bestanden"
+    },
+    {
+      "id": "A10",
+      "status": "bestanden"
+    },
+    {
+      "id": "A11",
+      "status": "bestanden"
+    },
+    {
+      "id": "A12",
+      "status": "bestanden"
+    },
+    {
+      "id": "A13",
+      "status": "bestanden"
+    },
+    {
+      "id": "A14",
+      "status": "bestanden"
+    },
+    {
+      "id": "A15",
+      "status": "bestanden"
+    },
+    {
+      "id": "A16",
+      "status": "bestanden"
+    }
+  ],
+  "modelTests": {
+    "passed": 17,
+    "failed": 0
+  },
+  "build": "bestanden inklusive TypeScript",
+  "referenceScope": "Vier Seiten/Klick/Ziehen/Menü bei 100 %, feste Bedienpunkte und Größenmarker zusätzlich bei 50 % und 200 %; keine vollständige Miro-Regressionsmatrix"
+}

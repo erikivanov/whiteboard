@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-29",
+  "url": "http://localhost:3001",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "runner": "Playwright MCP im sichtbaren Chromium; kein CLI-Testlauf",
+  "acceptance": [
+    {
+      "id": "A01",
+      "status": "bestanden"
+    },
+    {
+      "id": "A02",
+      "status": "bestanden"
+    },
+    {
+      "id": "A03",
+      "status": "bestanden"
+    },
+    {
+      "id": "A04",
+      "status": "bestanden"
+    },
+    {
+      "id": "A05",
+      "status": "bestanden"
+    },
+    {
+      "id": "A06",
+      "status": "bestanden"
+    },
+    {
+      "id": "A07",
+      "status": "bestanden"
+    },
+    {
+      "id": "A08",
+      "status": "bestanden"
+    },
+    {
+      "id": "A09",
+      "status": "bestanden"
+    },
+    {
+      "id": "A10",
+      "status": "bestanden"
+    },
+    {
+      "id": "A11",
+      "status": "bestanden"
+    },
+    {
+      "id": "A12",
+      "status": "bestanden"
+    },
+    {
+      "id": "A13",
+      "status": "bestanden"
+    },
+    {
+      "id": "A14",
+      "status": "bestanden"
+    },
+    {
+      "id": "A15",
+      "status": "bestanden"
+    },
+    {
+      "id": "A16",
+      "status": "bestanden"
+    }
+  ],
+  "settings": [
+    "16-Farben-Palette bestanden",
+    "Schriftgröße/Fett/Kursiv einschließlich Tastenkürzel bestanden",
+    "Horizontale/vertikale Ausrichtung bestanden",
+    "Notizgrößen S/M/L bestanden",
+    "Füllfarbe und Kontrast bestanden",
+    "Typwechsel/Dreieck bestanden",
+    "Rechtsklick/Duplizieren/Löschen/Anordnen/Inhalte leeren bestanden",
+    "Duplizieren per Tastenkürzel bestanden",
+    "Zoommenü/Raster bestanden",
+    "Bedienhilfe bestanden"
+  ],
+  "additional": {
+    "results": [
+      "Lokales Speichern und Wiederherstellen bestanden",
+      "Speicherung laufender Texteingabe bestanden",
+      "Text-Undo/Redo bestanden",
+      "JSON-Exportdownload bestanden",
+      "Importvalidierung bestanden",
+      "JSON-Import mit Undo/Redo bestanden",
+      "Linientypen und Pfeilspitze bestanden",
+      "Mehrzeilige Texte/Sonderzeichen/Textwachstum bestanden",
+      "Dreieck aufziehen bestanden",
+      "Verbindung an sichtbarer Dreieckkante bestanden",
+      "Hand und Mausradzoom bestanden",
+      "Keine pageerror-Ereignisse"
+    ],
+    "pageErrors": [],
+    "consoleErrors": [],
+    "failedLocalRequests": [],
+    "localHttpErrors": []
+  },
+  "checks": {
+    "productionBuild": "bestanden",
+    "typescript": "bestanden (Produktionsbuild)",
+    "modelTests": {
+      "passed": 7,
+      "failed": 0
+    }
+  }
+}

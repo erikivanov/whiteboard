@@ -1,0 +1,14 @@
+node_modules/
+.next/
+test-results/
+playwright-report/
+
+*.tsbuildinfo
+
+.playwright-mcp/
+
+.data/
+
+.env
+.env.*
+!.env.example
